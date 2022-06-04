@@ -14,7 +14,7 @@ const startInterval = () => {
                 clearInterval(count);
             }
         }
-    }, 100);
+    }, 1000);
 }
 
 const startMinCountdown = () => {
